@@ -4,10 +4,11 @@ Este proyecto está enfocado en conocer sobre la aplicación de espacios colabor
 
  - Evidencias del reto **CmdChallenge**.
  - Creación de un repositorio en **github**.
- - Personalización del **readme.md** a través de la sintaxis **Markdown**.
+ - Personalización del **readme.md** a través de la sintaxis **Markdown** con la herramienta **StackEdit**.
  - Creación de un programa en **java**.
  - Exposición del tema **¿Qué es el código binario y hexadecimal?**.
  - Organización del repositorio a través de commits.
+ - Documentación del trabajo colaborativo **(Lo que cada uno aportó).**
  
 ![enter image description here](https://jessup.edu/wp-content/uploads/2023/12/Programming-in-Computer-Science.jpg)
 ## Instrucciones para la ejecución del programa
@@ -22,6 +23,9 @@ Ejecuta el compilador de Java (`javac`) en la carpeta donde se encuntra el archi
 Si todo es correcto, no mostrará ningún mensaje en pantalla, pero se creará un nuevo archivo llamado: `HolaMundo.class`
 
 Llama a la Máquina Virtual de Java (`java`) indicando únicamente el **nombre de la clase**, sin la extensión.
+
+    java HolaMundo
+También para mayor agilidad puedes poner el siguiente comando para ejecutar el programa directamente sin digitar los comandos anteriores
 
     javac HolaMundo.java && java HolaMundo
 **Importante: al correr el programa te va a pedir tu nombre para poder continuar ejecutandose.**
@@ -44,6 +48,7 @@ Llama a la Máquina Virtual de Java (`java`) indicando únicamente el **nombre d
  - https://xacarana.com/
  - https://www.ionos.mx/digitalguide/paginas-web/desarrollo-web/codigo-binario/
  - https://www.ionos.com/es-us/digitalguide/servidores/know-how/sistema-hexadecimal/
+ - https://www.canva.com/
 
     
 
